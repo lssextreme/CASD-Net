@@ -1,0 +1,10 @@
+# CASD-Net runtime dependencies
+torch>=1.13
+torchvision>=0.14
+timm>=0.9.2
+einops
+numpy
+scikit-image
+scikit-learn
+tqdm
+Pillow
